@@ -1,2 +1,3 @@
 # GDAe-louren-o
-A repository só i can exchange ino files that i use for GDAe over my computer
+
+This is a implementation of a mpu 6050 for telemetry on a model rocket for from GDAe (Grupode de desenvolvimento Aeroespacial) from UFC
